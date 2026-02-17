@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Backend-leaning full-stack engineer focused on building reliable, scalable systems.<br><br>I work mostly with TypeScript, Node.js, NestJS, Python, Django, DRF and modern web stacks, and I enjoy designing APIs, data models, and business logic that actually hold up in production.<br><br>Curious by default, opinionated when necessary, and always learning.
 
 
